@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="EstilosSalmonaPaginaWeb.css">
+    <title> rogelio salmona</title>
+
+</head>
+
+<body>
+<!-- Este es el encabezado de la pagina-->    
+    <header>
+        <section></section>
+        <div class="container">
+            <img id="logotipo" src = "Assets/img/logo.png" alt="Imagen Logo">
+            <h1>Rogelio Salmona</h1> 
+                </div>
+        </section>
+    </header>
+    
+ <!-- Este es el Menu de navegación de la pagina-->       
+    <nav class="menu">
+        <a class="menu" href="index.html">Inicio</a> 
+        <a class="menu" href="biografia.html">Biografía</a>
+        <a class="menu" href="#">Proyectos</a>
+    </nav>
+
+ <!-- Este es el Slider principal de la pagina-->  
+
+        <div class="slider1">
+            <div><img src ="Assets/img/image1.png" alt="Imagen Bibliotec Virgilio barco"></div>
+        </div>
+
+  <!-- Este es el Texto y foto de Salmona--> 
+       
+        <div class="Flexcontainerfoto1ytexto">
+            <div id ="Sabiasque">
+                <h2>
+                    <br>
+                    Sabias que..
+                    <br>
+                </h2>
+            </div> 
+                <p class="parrafoTipo1">
+                        <br>    
+                        Rogelio Salmona es reconocido como uno de los <br>
+                        arquitectos más importantes de América Latina. Durante más de <br>
+                        cinco décadas, sus obras y reflexiones han servido de guía en <br>
+                        la formación de centenares de arquitectos que encuentran en <br>
+                        ellas la plenitud de una expresión que es simultáneamente<br>
+                        propia y contemporánea.<br>
+                        <br>
+                </p>
+            </div>
+
+            <div id=retratoSalmona>
+                <img src = "Assets/img/image2.jpg" alt="Imagen foto salmona">
+            </div>
+        </div> 
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>    
+    <br>
+    <br>
+    <br>
+        <!-- Este es el bloque Torres del parque-->
+        <div class="ImageContainer">
+           <article>
+                <div>
+                    <img id="TorresDelParque" src = "Assets/img/image3.jpg" alt="Imagen Torres del parque">
+                </div>
+                <div id="BotonLinkTorresDelParque">
+                    <div>
+                    <a class="vinculoImg" href="las_torres_del_parque.html">Las torres del Parque</a>
+                    </div>
+                </div>
+           </article>
+
+        <!-- Este es el bloque Alto de los pinos-->   
+        <div class="ImageContainer">
+            <article>
+                <div>
+                    <img id="AltoDeLosPinos" src = "Assets/img/image4.jpg" alt="Alto de los pinos">
+                </div>
+                <div id="BotonAltoDeLosPinos">
+                     <a class="vinculoImg" href="Alto_de_los_pinos.html">Alto de los pinos</a>
+                 </div>
+            </article>
+        </div>
+
+        <!-- Este es el bloque Archivo general de la nación-->
+        <div class="ImageContainer3">
+            <article>
+                <div>
+                    <img id="ArchivoGeneral" src = "Assets/img/image5.jpg" alt="Archivo general de la nación">
+                </div>
+                <div id=BotonBajoImagen>
+
+                     <a class="vinculoImg" href="Archivo general de la nacion.html">Archivo general de la nación</a>
+                
+                </div>
+            </article>
+        </div>
+
+        <!-- Este es el contenedor de Casa de huéspedes ilustres y
+        Centro Cultural Universidad de caldas-->
+        <div>
+        <!-- Este es el bloque Centro cultural Universdad de Caldas-->  
+            <div class="Imagecontainer4">
+                <article>
+                    <div>
+                        <img src = "Assets/img/image6.png" alt="Imagen casa de huespedes ilustres">
+                    </div>
+                    <div>
+                        <a href="Casa de huespedes ilustres.html">Casa de huéspedes ilustres</a>
+                    </div>
+                </article>
+            
+        <!-- Este es el bloque Centro cultural Universdad de Caldas-->
+            <div class="Imagecontainer5">
+            <article>
+                <div>
+                    <img src = "Assets/img/image7.png" alt="Centro cultural Universidad de caldas">
+                </div>
+                <div>
+                     <a href="Centro cultural Universidad de caldas.html">Centro cultural Universidad de Caldas</a>
+                 </div>
+            </article>
+        </div>
+       
+        <div class="flex-container3">
+            <div><img src = "Assets/img/image8.png" alt="Foto Salmona 2">
+                <div><p> Salmona</p></div>
+                    <div><p>no solo tiene un conjunto sorprendente de <br>
+                    proyectos, sino algo más importante: una obra.<br>
+                    De manera persistente ha mantenido a través de los años una serie de inquietudes,<br>
+                    intenciones y propuestas de carácter universal que ha enfrentado<br>
+                    desde su ámbito local.
+
+                    Para Salmona, la arquitectura no es solo un hecho estético y<br>
+                    técnico, sino una expresión cultural. Por ello construye edificios<br>
+                    perdurables, sólidos y estables, que permiten la apropiación<br>
+                    colectiva y la identificación de sus habitantes con la arquitectura.<br>
+                    Sus espacios tienen la cualidad de emocionar, pues trabaja con los<br>
+                    elementos que conforman las más arraigadas formas de captación<br>
+                    sensorial: la luz, la vegetación y el agua, que acompañan una<br>
+                    arquitectura que está pensada para ser entendida como una rica<br>
+                     experiencia corporal.</p>
+                    </div>     
+            </div>
+
+
+
+
+            </p>
+        </div>
+    <footer>
+        <p>¿Te gustó está pagina? Contactanos </p>
+        <p>Todos los derechos reservados© </p>
+    </footer>
+</body>
+
+
+</html>
